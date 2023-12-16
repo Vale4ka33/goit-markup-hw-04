@@ -393,6 +393,7 @@ transform: translateY(0);
     color: var(--WHITE, #FFF);
     line-height: 1.5;
     letter-spacing: 0.02em;
+    margin-bottom: 16px;
 }
 .social-footer{
     display: flex;
@@ -412,5 +413,9 @@ transform: translateY(0);
 }
 .footer .container{
     display: flex;
+    align-items: baseline;
+}
+.footer-logo-container{
+    margin-right: 120px;
 }
 
