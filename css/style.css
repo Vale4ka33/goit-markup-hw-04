@@ -156,7 +156,7 @@ ol {
 .hero-section{
     background-color: #2E2F42;
     padding: 188px 0;
-    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/hw-4/hero-bgimg.jpg);
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/hero-bgimg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     max-width: 1440рх;
