@@ -160,6 +160,7 @@ ol {
     background-size: cover;
     max-width: 1440px;
     background-position: center;
+    margin: 0 auto;
 }
 
 .hero-section-name {
@@ -204,9 +205,6 @@ ol {
     line-height: 1.2;
     letter-spacing: 0.02em;
     margin-bottom: 8px;
-}
-.about-section{
-    margin: 0 auto;
 }
 .about-text {
     color: #434455;
